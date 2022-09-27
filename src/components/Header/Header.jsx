@@ -1,8 +1,11 @@
+import { Wrapper } from './Header.styles'
+
 function Header () {
   return (
-    <div>
-      todo: header
-    </div>
+    <Wrapper>
+      Alga
+      <span>Shopping</span>
+    </Wrapper>
   )
 }
 
